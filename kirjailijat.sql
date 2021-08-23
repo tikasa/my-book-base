@@ -3,5 +3,5 @@ create table Алексей_Константинович_Толстой (
     venäjäksi text, 
     suomeksi text, 
     englanniksi text, 
-    tyyppi text
+    tyyppi text,
     luettu integer);
